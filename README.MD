@@ -11,7 +11,7 @@ A solution for receipt management that leverages OCR/AI technology to extract an
 
 `pip install -r requirement.txt`
 
-API Specifications
+### API Specifications
 The solution should expose a set of REST APIs for receipt management. You may use any web framework and implement the APIs with or without an ORM.
 
 1. **/upload (POST)**
